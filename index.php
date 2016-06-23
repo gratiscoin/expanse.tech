@@ -78,20 +78,20 @@
   </div>
 </section>
 
-<!-- DOWNLOADS MODALS -->
+<!-- ΣΤΟΙΧΕΙΑ ΛΗΨΗΣ -->
 <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="ModelLabel_gexposx" aria-hidden="true">
   <div class="vertical-alignment-helper">
     <div class="modal-dialog vertical-align-center">
       <div class="modal-content">
         <div class="modal-header">
-          <h1 class="modal-title" id="ModelLabel_gexposx">GEXP OSX</h1>
+          <h1 class="modal-title" id="ModelLabel_gexposx">GEXP ΓΙΑ OSX</h1>
         </div>
         <div class="modal-body">
           <div class="btn0"><a href="/downloads/gexp-darwin-x86.tar.gz">gexp-darwin-x86.tar.gz</a></div>
           <div class="btn0"><a href="/downloads/gexp-darwin-x64.tar.gz">gexp-darwin-x64.tar.gz</a></div>
         </div>
         <div class="modal-footer">
-          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+          <button type="button" class="btn btn-default" data-dismiss="modal">Κλείσιμο</button>
         </div>
       </div>
     </div>
@@ -102,14 +102,14 @@
     <div class="modal-dialog vertical-align-center">
       <div class="modal-content">
         <div class="modal-header">
-          <h1 class="modal-title" id="ModelLabel_gexpwin">GEXP WIN</h1>
+          <h1 class="modal-title" id="ModelLabel_gexpwin">GEXP ΓΙΑ WINDOWS</h1>
         </div>
         <div class="modal-body">
           <div class="btn0"><a href="/downloads/gexp-windows-x86.zip">gexp-windows-x86.zip</a></div>
           <div class="btn0"><a href="/downloads/gexp-windows-x64.zip">gexp-windows-x64.zip</a></div>
         </div>
         <div class="modal-footer">
-          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+          <button type="button" class="btn btn-default" data-dismiss="modal">Κλείσιμο</button>
         </div>
       </div>
     </div>
@@ -120,7 +120,7 @@
     <div class="modal-dialog vertical-align-center">
       <div class="modal-content">
         <div class="modal-header">
-          <h1 class="modal-title" id="ModelLabel_gexplinux">GEXP LINUX</h1>
+          <h1 class="modal-title" id="ModelLabel_gexplinux">GEXP ΓΙΑ LINUX</h1>
         </div>
         <div class="modal-body">
           <div class="btn0"><a href="/downloads/gexp-linux-x86.tar.gz">gexp-linux-x86.tar.gz</a></div>
@@ -128,7 +128,7 @@
           <div class="btn0"><a href="/downloads/gexp-linux-arm.tar.gz">gexp-linux-arm.tar.gz</a></div>
         </div>
         <div class="modal-footer">
-          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+          <button type="button" class="btn btn-default" data-dismiss="modal">Κλείσιμο</button>
         </div>
       </div>
     </div>
@@ -139,13 +139,13 @@
     <div class="modal-dialog vertical-align-center">
       <div class="modal-content">
         <div class="modal-header">
-          <h1 class="modal-title" id="ModelLabel_walletosx">EXPWallet v0.0.3 OSX</h1>
+          <h1 class="modal-title" id="ModelLabel_walletosx">EXPWallet v0.0.3 ΓΙΑ OSX</h1>
         </div>
         <div class="modal-body">
           <div class="btn0"><a href="/downloads/expwallet-mac.zip">expwallet-mac.zip</a></div>
         </div>
         <div class="modal-footer">
-          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+          <button type="button" class="btn btn-default" data-dismiss="modal">Κλείσιμο</button>
         </div>
       </div>
     </div>
@@ -156,13 +156,13 @@
     <div class="modal-dialog vertical-align-center">
       <div class="modal-content">
         <div class="modal-header">
-          <h1 class="modal-title" id="ModelLabel_walletwin">EXPWallet v0.0.3 WIN</h1>
+          <h1 class="modal-title" id="ModelLabel_walletwin">EXPWallet v0.0.3 ΓΙΑ WINDOWS</h1>
         </div>
         <div class="modal-body">
           <div class="btn0"><a href="/downloads/expwallet-win.zip">expwallet-win.zip</a></div>
         </div>
         <div class="modal-footer">
-          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+          <button type="button" class="btn btn-default" data-dismiss="modal">Κλείσιμο</button>
         </div>
       </div>
     </div>
@@ -173,18 +173,18 @@
     <div class="modal-dialog vertical-align-center">
       <div class="modal-content">
         <div class="modal-header">
-          <h1 class="modal-title" id="ModelLabel_walletlinux">EXPWallet v0.0.3 LINUX</h1>
+          <h1 class="modal-title" id="ModelLabel_walletlinux">EXPWallet v0.0.3 ΓΙΑ LINUX</h1>
         </div>
         <div class="modal-body">COMING SOON</div>
         <div class="modal-footer">
-          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+          <button type="button" class="btn btn-default" data-dismiss="modal">Κλείσιμο</button>
         </div>
       </div>
     </div>
   </div>
 </div>
 
-<!-- DOWNLOADS -->
+<!-- ΛΗΨΕΙΣ -->
 <section id="downloads" class="section4">
   <div class="container">
     <div class="row">
@@ -221,7 +221,7 @@
             </div>
             <div class="col-lg-3 col-md-3 col-sm-6 circles">
               <div class="circle02"><a href="//github.com/expanse-project/go-expanse"><i class="fa fa-github" aria-hidden="true"></i></a></div>
-              <div class="btn0"><a href="//github.com/expanse-project/go-expanse">Github Source</a></div>
+              <div class="btn0"><a href="//github.com/expanse-project/go-expanse">Πηγαίος Κώδικας στο Github</a></div>
               </div>
           </div>
         </div>
@@ -273,20 +273,20 @@
       <div class="col-lg-3 col-md-3 col-sm-3">
         <div class="panel panel-default panel-transparent"> <a href="//www.borderless.tech">
           <div class="panel-body center"><img src="images/borderless.png" width="100" height="100" alt=""/></div>
-          <div class="panel-heading feature_text">Borderless</div>
+          <div class="panel-heading feature_text">Χωρίς Όρια</div>
           </a> </div>
       </div>
       <div class="col-lg-3 col-md-3 col-sm-3">
         <div class="panel panel-default panel-transparent">
           <div class="panel-body center"><img src="images/expanse_logo_100.png" width="100" height="100" alt=""/></div>
-          <div class="panel-heading feature_text">Expanse DAO</div>
+          <div class="panel-heading feature_text">Expanse Αποκεντρωμένος Οργανισμός DAO</div>
         </div>
       </div>
     </div>
   </div>
 </section>
 
-<!-- DOCUMENTATION -->
+<!-- ΤΕΚΜΗΡΙΩΣΗ -->
 <section id="documentation" class="section6">
   <div class="container">
     <div class="row">
@@ -330,7 +330,7 @@
   </div>
 </section>
 
-<!-- TEAM -->
+<!-- ΟΜΑΔΑ -->
 <section id="team" class="section7">
   <div class="container">
     <div class="row">
@@ -398,7 +398,7 @@
   </div>
 </section>
 
-<!-- COMMUNITY -->
+<!-- ΚΟΙΝΟΤΗΤΑ -->
 <section id="community" class="section8">
   <div class="container">
     <div class="row">
