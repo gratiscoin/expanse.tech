@@ -21,7 +21,7 @@ function scrollCheck(){
 	var scrolled = $(window).scrollTop();
 	var windowHeight = $(window).height(); 
 	
-	/*sticky header*/
+	/*κολλώδη κεφαλίδα*/
 	if (scrolled >initialOffset) {
 		 $('#navbar').removeClass('navbar-fixed-top').addClass('navbar-fixed-top');
 		 $('.navbar-header').hide();
@@ -32,7 +32,7 @@ function scrollCheck(){
 		$('.navspacer').hide();
 	}
 	
-	// auto highlight nav elements if section is currently primary in frame
+	// αυτόματος τονίσμός περιήγησης στοιχείων του τμήματος που είναι πρωταρχικά στο πλαίσιο
 	for (var i=0; i < navItems.length; i++) {
 		if($(navItems[i]).length>0){
 			var divPos = $(navItems[i]).offset().top;
