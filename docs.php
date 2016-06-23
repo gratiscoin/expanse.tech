@@ -28,17 +28,17 @@
               <tbody>
                 <tr>
                   <td colspan="4">GEXP<br>
-                    Current Version: v1.3.5</td>
+                    Έκδοση : v1.3.5</td>
                 </tr>
                 <tr>
                   <td><img src="/images/winicon2.png" width="64" height="64" alt="windows"/><br>
-                    Windows</td>
+                   Για Windows</td>
                   <td><img src="/images/macicon.png" width="64" height="64" alt="osx" /><br>
-                    OSX</td>
+                   Για OSX</td>
                   <td><img src="/images/icon_linux.png" width="64" height="64" alt="linux" /><br>
-                    Linux</td>
+                   Για Linux</td>
                   <td><img src="/images/icon_git.png" width="64" height="64" alt="github" /><br>
-                    Source</td>
+                   Πηγαίος Κώδικας</td>
                 </tr>
                 <tr>
                   <td><a href="/downloads/gexp-windows-x86.zip">gexp-windows-x86.zip</a><br>
@@ -51,7 +51,7 @@
                   <td><a href="//www.github.com">Github</a></td>
                 </tr>
                 <tr>
-                  <td colspan="4">Android Version: <a href="/downloads/gexp-android-arm-21.tar.gz">gexp-android-arm-21.tar.gz</a></td>
+                  <td colspan="4">Έκδοση για Android: <a href="/downloads/gexp-android-arm-21.tar.gz">gexp-android-arm-21.tar.gz</a></td>
                 </tr>
               </tbody>
             </table>
@@ -59,23 +59,23 @@
               <tbody>
                 <tr>
                   <td colspan="4">EXPWallet<br>
-                    Current Version: v0.0.3</td>
+                    Έκδοση: v0.0.3</td>
                 </tr>
                 <tr>
                   <td><img src="/images/winicon2.png" width="64" height="64" alt="" /><br>
-                    Windows</td>
+                   Για Windows</td>
                   <td><img src="/images/macicon.png" width="64" height="64" alt="osx"/><br>
-                    OSX</td>
+                   Για OSX</td>
                   <td><img src="/images/icon_linux.png" width="64" height="64" alt="linux"/><br>
-                    Linux</td>
+                   Για Linux</td>
                   <td><img src="/images/icon_git.png" width="64" height="64" alt="github" /><br>
-                    Source</td>
+                    Πηγαίος Κώδικας/td>
                 </tr>
                 <tr>
                   <td><a href="/downloads/expwallet-win.zip">expwallet-win.zip</a></td>
                   <td><a href="/downloads/expwallet-mac.zip">expwallet-mac.zip</a></td>
-                  <td>Coming Soon</td>
-                  <td>Coming Soon</td>
+                  <td>Έρχεται Σύντομα</td>
+                  <td>Έρχεται Σύντομα</td>
                 </tr>
               </tbody>
             </table>
@@ -107,9 +107,9 @@
         <p><?php echo $i8n['userguide_backup_loc']; ?></p>
         <?php echo $i8n['userguide_backup_locos']; ?>
         <ul>
-          <li>Mac: ~/Library/Expanse</li>
-          <li>Linux: ~/.expanse</li>
-          <li>Windows: %APPDATA%/Expanse</li>
+          <li>Αρχεία Πορτοφολιού στο Mac: ~/Library/Expanse</li>
+          <li>Αρχεία Πορτοφολιού στο Linux: ~/.expanse</li>
+          <li>Αρχεία Πορτοφολιού στα Windows: %APPDATA%/Expanse</li>
         </ul>
         <p><?php echo $i8n['userguide_backup_datadir']; ?></p>
         <strong><?php echo $i8n['userguide_backup_wallet']; ?></strong>
@@ -164,5 +164,5 @@
     </div>
   </div>
 </div>
-<!-- /documentation -->
+<!-- /τεκμηρίωση -->
 <?php include('./footer.php'); ?>
