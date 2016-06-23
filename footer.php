@@ -1,7 +1,7 @@
 <section class ="footer_last">
 	<div class="container">
 		<div class="row">
-		<div class="col-lg-12 col-md-12 col-sm-12">Copyright © <span class="white_c">Expanse Project 2016</span></div>
+		<div class="col-lg-12 col-md-12 col-sm-12">Πνευματική Ιδιοκτησία © <span class="white_c">Το Σχέδιο του Expanse για το 2016</span></div>
 		</div>
 	</div>
 
