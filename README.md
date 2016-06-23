@@ -1,5 +1,5 @@
 # expanse.tech
-Expanse Website
+Expanse Ιστοσελίδα
 
 
-To contribute, follow the best practices and standards of git.
+Για να συμβάλετε, ακολουθήστε τις βέλτιστες πρακτικές και τα πρότυπα του Git.
