@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta property="og:url"                content="http://www.expanse.tech<?php echo $og_page; ?>" />
 	<meta property="og:title"              content="Expanse" />
-	<meta property="og:description"        content="Expanse Official Website" />
+	<meta property="og:description"        content="Expanse Επίσημη Ιστοσελίδα" />
 	<meta property="og:image"              content="http://www.expanse.tech/images/expbig.jpg" />
     <title><?php echo $i8n['global_title']; ?></title>
     <link rel="stylesheet" href="/css/normalize.css">
