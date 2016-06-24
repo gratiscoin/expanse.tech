@@ -3,62 +3,62 @@
 //Version: 0.0.1
 
 //Main Page : Heading
-$i8n['main_headline']='community driven<br />decentralized blockchain platform';
-$i8n['main_description']='Expanse is a decentralized cryptographic information, application, and contract platform. The project is operated by its users through a fair, open, community managed decentralized organization.';
-$i8n['main_readmore']='read more';
+$i8n['main_headline']='οδηγούμενη απο την κοινότητα<br />πλατφόρμα αποκεντρωμένης αλυσίδας συναλλαγών';
+$i8n['main_description']='Το Expanse είναι μια πλατφόρμα αποκεντρωμένη, κρυπτογραφική, με εφαρμογές και συμβόλαια. Το έργο εκτελείται από τους χρήστες του μέσα από μια δίκαιη, ανοιχτή, κοινότητα με αποκεντρωμένη οργάνωση.';
+$i8n['main_readmore']='διαβάστε περισσότερα';
 
 //Main Page : About
-$i8n['main_about_what']='What is Expanse?';
-$i8n['main_about_left']='Expanse is a community driven, decentralized information, application, and smart contract platform. The Expanse project is operated by its community through a DAO (decentralized autonomous organization) in which its members directly collaborate; exchange thoughts and ideas; and vote to determine the project\'s future developments and management decisions.';
-$i8n['main_about_right']='Featuring a growing collection of smart contracts, dApps and toolkits provide users and organizations of all types with intuitive access to some of the most exciting applications of blockchain technology. The project provides tools and services that businesses, charities, even governments can use to easily and intuitively make use of blockchain technology from creating and managing smart assets to providing digital fulfillment and distribution.';
-$i8n['main_about_title1']='Smart Contracts & DApps';
-$i8n['main_about_desc1']='Diverse, dynamic, decentralize applications running on the Expanse Blockchain. From decentralized markets, global registries, computationally enforced agreements, to entire organizations operated exclusively on the blockchain.';
-$i8n['main_about_title2']='Decentralized EVERYTHING.';
-$i8n['main_about_desc2']='Decentralized Data Storage, Record Keeping, Information Processing, Smart Assets, and more. 
-Expanse allows for a world of innovation built on top of its distributed technology.';
-$i8n['main_about_title3']='Fast. Intuitive. Powerful.';
-$i8n['main_about_desc3']='Blockchain technology meets Complex Smart Contracts to bring you unprecedented results. Exponentially improved speed, reliability, and performance made available for drastically reduced costs when compared to traditional solutions.';
-$i8n['main_about_title4']='Expanse Community';
-$i8n['main_about_desc4']='The Expanse Project is managed by a decentralized organization operating on the Expanse Blockchain. This entity is responsible for significant decisions such as deciding what features or updates to be focused on by developers.';
+$i8n['main_about_what']='Τι είναι το Expanse?';
+$i8n['main_about_left']='Το Expanse είναι μια πλατφόρμα αποκεντρωμένη, κρυπτογραφική, με εφαρμογές και συμβόλαια. Το έργο του Expanse εκτελείται από τους χρήστες του μέσα από ένα DAO (αποκεντρωμένος αυτόνομος οργανισμός) στον οποίο κάθε μέλος συμβάλει απευθείας; ανταλλάσει σκέψεις και ιδέες; και να ψηφίζει για να καθορίσει τις μελλοντικές εξελίξεις του έργου και των αποφάσεων διαχείρισης.';
+$i8n['main_about_right']='Έχοντας μια μεγάλη συλλογή απο έξυπνα συμβόλαια, αποκεντρωμένες εφαρμογές και εργαλεία παρέχει στους χρήστες και στους οργανισμούς όλων των τύπων με τις πιο εντυπωσιακές εφαρμογές της αλυσίδας συναλλαγών. Το πρόγραμμα παρέχει εργαλεία και υπηρεσίες που οι επιχειρήσεις, τα φιλανθρωπικά ιδρύματα, ακόμη και οι κυβερνήσεις μπορούν να χρησιμοποιούν εύκολα και διαισθητικά να κάνουν χρήση των τεχνολογιών της αλυσίδας συναλλαγών, τη δημιουργία και τη διαχείριση των έξυπνων περιουσιακών στοιχείων για να παρέχουν ψηφιακές ευκολίες κατά τη διανομή.';
+$i8n['main_about_title1']='Έξυπνα Συμβόλαια & Αποκεντρωμένες Εφαρμογές';
+$i8n['main_about_desc1']='Διαφοροποιημένες, δυναμικές, αποκεντρωμένες εφαρμογές που εκτελούνται στην αλυσίδα συναλλαγών του Expanse. Από αποκεντρωμένες αγορές, παγκόσμια μητρώα, υπολογιστικά επιβληθήσες συμφωνίες, για το σύνολο των οργανισμών που λειτουργούν αποκλειστικά και μόνο για την αλυσίδα συναλλαγών.';
+$i8n['main_about_title2']='Αποκέντρωση ΣΕ ΟΛΑ.';
+$i8n['main_about_desc2']='Αποκεντρωμένη Αποθήκευση, Τήρηση αρχείων, Επεξεργασία πληροφοριών, Έξυπνα περιουσιακά στοιχεία, και πολλά άλλα.
+Το Expanse επιτρέπει ένα κόσμο να χτιστεί πάνω στην κατανεμημένη τεχνολογία του.';
+$i8n['main_about_title3']='Γρήγορο. Ενστικτώδες. Ισχυρό.';
+$i8n['main_about_desc3']='Η αλυσίδα συναλλαγών συναντά τα Σύνθετα Έξυπνα Συμβόλαια για να φέρει απίστευτα αποτελέσματα. Εκθετικά βελτιωμένη ταχύτητα, η αξιοπιστία και η απόδοση που διατίθενται σε δραματικά μειωμένο κόστος σε σύγκριση με τις παραδοσιακές λύσεις.';
+$i8n['main_about_title4']='Η κοινήτητα του Expanse';
+$i8n['main_about_desc4']='Το έργο του Expanse διοικείται από μια αποκεντρωμένη οργάνωση που λειτουργεί επί της έκτασης της αλυσίδας συναλλαγών. Αυτή η οντότητα είναι υπεύθυνη για σημαντικές αποφάσεις όπως το να αποφασίζει σε ποιά χαρακτηριστικά και ενημερώσεις θα επικεντρώνονται οι προγραμματιστές.';
 
 //Main Page : Downloads
-$i8n['main_downloads_header']='Downloads';
-$i8n['main_downloads_gexptitle']='gexp - core reference implementation';
-$i8n['main_downloads_gexpdesc']='The primary expanse implementation. Developed in GO, It is the ideal way to operate an Expanse node or as a backend for Expanse Distributed Applications.';
-$i8n['main_downloads_wallettitle']='expwallet rich graphic wallet client';
-$i8n['main_downloads_walletdesc']='An intuitive, easy to use client featuring display of accounts and transactions, allowing for direct access to the most utilized features in expanse.';
-$i8n['main_downloads_soon']='Coming Soon';
-$i8n['main_downloads_download']='Download';
-$i8n['main_downloads_close']='Close';
+$i8n['main_downloads_header']='Λήψεις';
+$i8n['main_downloads_gexptitle']='gexp - βασική εφαρμογή αναφοράς';
+$i8n['main_downloads_gexpdesc']='Η κύρια εφαρμογή του Expanse. Αναπτύχθηκε στο GO, το οποίο είναι ο ιδανικός τρόπος για να λειτουργήσει ένας κόμβος Expanse ή στο παρασκήνιο σαν μια Κατανεμημένη Εφαρμογή.';
+$i8n['main_downloads_wallettitle']='Το expwallet έχει ένα πλούσιο σε γραφικά πορτοφόλι';
+$i8n['main_downloads_walletdesc']='Ένα διαισθητικό, εύκολο στη χρήση πελάτη που διαθέτει οθόνη λογαριασμών και συναλλαγών, επιτρέποντας την άμεση πρόσβαση στα πιο χρησιμοποιούμενα χαρακτηριστικά του Expanse.';
+$i8n['main_downloads_soon']='Έρχεται Σύντομα';
+$i8n['main_downloads_download']='Λήψεις';
+$i8n['main_downloads_close']='Κλείσιμο';
 
 //Main Page : Explore
-$i8n['main_explore_header']='<strong>Explore</strong> a new world';
+$i8n['main_explore_header']='<strong>Εξερευνήστε </strong> ένα νέο κόσμο';
 
 //Main Page : Documentation
-$i8n['main_documentation_header']='Documentation';
-$i8n['main_documentation_title']='What you need to know';
-$i8n['main_documentation_desc']='Learn more about the Expanse project and it\'s technology. From a quick start guide for brand new users to detailed technical specifications, an array of documentation is available to help you use and understand Expanse.';
-$i8n['main_documentation_start']='Getting Started';
-$i8n['main_documentation_install']='Installation';
-$i8n['main_documentation_concepts']='Basic Concepts';
-$i8n['main_documentation_backup']='Backing Up &amp; Restoring';
-$i8n['main_documentation_mining']='Mining Quick Start';
-$i8n['main_documentation_accounts']='Managing Accounts';
-$i8n['main_documentation_tx']='Sending Transactions';
-$i8n['main_documentation_tech']='Technical Documentation';
-$i8n['main_documentation_guide']='User Guide';
-$i8n['main_documentation_roadmap']='Roadmap';
-$i8n['main_documentation_whitepaper']='Whitepaper';
+$i8n['main_documentation_header']='Τεκμηρίωση';
+$i8n['main_documentation_title']='Τι πρέπει να γνωρίζετε';
+$i8n['main_documentation_desc']='Μάθετε περισσότερα για το έργο του Expanse και τεχνολογία του. Από τον οδηγό γρήγορης εκκίνησης για το εμπορικό σήμα για τους νέους χρήστες σε λεπτομερείς τεχνικές προδιαγραφές, μια σειρά από έγγραφα που είναι διαθέσιμα για να σας βοηθήσουν να χρησιμοποιήσετε και να κατανοήσετε το Expanse.';
+$i8n['main_documentation_start']='Ξεκινώντας';
+$i8n['main_documentation_install']='Εγκατάσταση';
+$i8n['main_documentation_concepts']='Βασικές ιδέες';
+$i8n['main_documentation_backup']='Αντίγραφα &amp; Ασφαλείας';
+$i8n['main_documentation_mining']='Γρήγορη Εκκίνηση Εξόρυξης';
+$i8n['main_documentation_accounts']='Διαχείρηση Λογαριασμών';
+$i8n['main_documentation_tx']='Αποστολή Συναλλαγών';
+$i8n['main_documentation_tech']='Τεχνική Τεκμηρίωση';
+$i8n['main_documentation_guide']='Εγχειρίδιο Χρήστη';
+$i8n['main_documentation_roadmap']='Οδικός Χάρτης';
+$i8n['main_documentation_whitepaper']='Λευκή Βίβλος';
 
 //Main Page : Team
-$i8n['main_team_heading']='Meet the Team';
-$i8n['main_team_title_chris']='Lead Developer';
-$i8n['main_team_desc_chris']='An experienced cryptocurrency developer with expert level knowledge of blockchain technology, Chris has a diverse understanding of the industry, and a long standing reputation in the community.';
-$i8n['main_team_title_dan']='Co-Developer';
-$i8n['main_team_desc_dan']='Dan is a blockchain technology advocate and developer, providing consultancy for a number of projects and companies in the cryptocurrency and blockchain technology space.';
-$i8n['main_team_title_james']='Community Manager';
-$i8n['main_team_desc_james']='James is a crypto currency analyst, investor, and enthusiast who is founder one of the largest active communities for Cryptocurrency discussion in the world. An experienced community manager, James serves on the teams of multiple well established blockchain technology projects.';
-$i8n['main_team_title_marcia']='Marketing Strategy';
+$i8n['main_team_heading']='Γνωρίστε την ομάδα';
+$i8n['main_team_title_chris']='Βασικός Προγραμματιστής';
+$i8n['main_team_desc_chris']='Ένας έμπειρος προγραμματιστής κρυπτονομισμάτων με ειδικές γνώσεις επιπέδου αλυσίδας συναλλαγών, ο Chris έχει μια διαφορετική αντίληψη του κλάδου, καθώς και μια μεγάλη φήμη στην κοινότητα.';
+$i8n['main_team_title_dan']='Συν-Δημιουργός';
+$i8n['main_team_desc_dan']='Ο Dan είναι συνήγορος της τεχνολογίας και προγραμματιστής, παρέχει συμβουλευτικές υπηρεσίες για έναν αριθμό έργων και επιχειρήσεων στην κρύπτο κοινότητα και τεχνολογία στον χώρο της αλυσίδας συναλλαγών.';
+$i8n['main_team_title_james']='Διευθυντής της Κοινότητας';
+$i8n['main_team_desc_james']='Ο James είναι ένας αναλυτής κρυπτονομισμάτων, επενδυτής, και ενθουσιώδης που είναι ο ιδρυτής μιας από τις μεγαλύτερες ενεργές κοινότητες για κρυπτονομίσματα στον κόσμο. Ένας έμπειρος διαχειριστής κοινότητας, ο James χρησιμεύει στις ομάδες πολλαπλών έργων καθιερωμένης τεχνολογίας αλυσίδας συναλλαγών.';
+$i8n['main_team_title_marcia']='Στρατηγική Μάρκετινγκ';
 $i8n['main_team_desc_marcia']='Marcia Danzeisen has led marketing and strategy for some of the largest banks and financial services technology companies in the world. An accomplished writer, Danzeisen saw how crypto currency and blockchain technology have changed the traditional FinTech world and immersed herself into the space.';
 $i8n['main_team_title_esias']='Int. Business Development China';
 $i8n['main_team_desc_esias']='Esaias is an experienced business liaison specializing in global markets. As former VP Operations at Cryptoexchange Inc., he has strong industry experience complimenting his background in software and business development.';
