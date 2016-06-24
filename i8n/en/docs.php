@@ -3,62 +3,62 @@
 //Version: 0.0.1
 
 // Documentation : User Guide : Menu
-$i8n['userguide_header']='User Guide';
-$i8n['userguide_menu_install']='Installation';
-$i8n['userguide_menu_backup']='Backing Up &amp; Restoring';
-$i8n['userguide_menu_mining']='Mining Quick Start';
-$i8n['userguide_menu_accounts']='Managing Accounts';
-$i8n['userguide_menu_tx']='Sending Transactions';
+$i8n['userguide_header']='Οδηγός Χρήστη';
+$i8n['userguide_menu_install']='Εγκατάσταση';
+$i8n['userguide_menu_backup']='Αντίγραφα &amp; Ασφαλείας';
+$i8n['userguide_menu_mining']='Γρήγορη Εκκίνηση Εξόρυξης';
+$i8n['userguide_menu_accounts']='Διαχείρηση Λογαριασμών';
+$i8n['userguide_menu_tx']='Αποστολή Συναλλαγών';
 				
 // Documentation : User Guide : Installation
-$i8n['userguide_install_title']='Installation';
-$i8n['userguide_install_download_title']='Download';
-$i8n['userguide_install_download_desc']='Download Expanse for your preferred platform';
-$i8n['userguide_install_run_cmd_title']='Running Expanse - Command Line';
-$i8n['userguide_install_run_desc']='Expanse can be run from the command line(gexp), or through a graphical wallet client(expwallet).';
-$i8n['userguide_install_run_cmd']='To run gexp from the command line, navigate your console to the directory holding the gexp executable and run the gexp command.';
-$i8n['userguide_install_args']='You may append various commands and option arguments to customize the expanse instance such as <code>console</code> (to launch with interactive javascript console), <code>--verbosity</code> (to increase the detail of output), or <code>--rpcport</code> (to specify RPC port). Detailed information on these arguements can be found on <a href="https://github.com/expanse-project/go-expanse/wiki/Command-Line-Options">Expanse Wiki : Command Line Options</a>.';
-$i8n['userguide_install_example']='Example';
-$i8n['userguide_install_attach']='To attach a console to an already running instance of gexp, include the argument &quot;attach&quot;.';
-$i8n['userguide_install_rungui_title']='Running Expanse - EXPWallet GUI';
-$i8n['userguide_install_rungui']='To run the expanse GUI,  simply run the expwallet executable. If you are already running an instance of gexp, running expwallet will attach itself to that instance. If you do not have an instance of gexp running, it will launch an internal instance of gexp.';
-$i8n['userguide_install_firstrun_title']='First Run/Install';
-$i8n['userguide_install_firstrun_desc']='The first time you run expanse, you will be prompted to agree to the user agreement. Expanse will check the default or specified datadir for pre-exsisting files, and if any are not found, it will create them.  It is suggested you now Create an Account if you have not done so.';
+$i8n['userguide_install_title']='Εγκατάσταση';
+$i8n['userguide_install_download_title']='Λήψεις';
+$i8n['userguide_install_download_desc']='Κατεβάστε το Expanse για την προτιμώμενη πλατφόρμα';
+$i8n['userguide_install_run_cmd_title']='Εκτέλεση του Expanse - Γραμμή εντολών';
+$i8n['userguide_install_run_desc']='Το Expanse μπορεί να τρέξει από την γραμμή εντολών (gexp), ή μέσω ενός γραφικού πελάτη πορτοφολιού (expwallet).';
+$i8n['userguide_install_run_cmd']='Για την εκτέλεση του gexp απο την γραμμή εντολών, μεταβείτε από την κονσόλα στον φάκελο που περιέχει το εκτελέσιμο του gexp και εκτελέστε την εντολή gexp.';
+$i8n['userguide_install_args']='Μπορείτε να προσαρτήσετε διάφορες εντολές και επιχειρήματα κατά την επιλογή για να προσαρμόσετε το Expanse, όπως για παράδειγμα <code>console</code> (για να ξεκινήσει με διαδραστική κονσόλα javascript), <code>--verbosity</code> (για να αυξηθεί η λεπτομέρεια εξόδου), ή <code>--rpcport</code> (για να καθοριστεί η θύρα RPC). Λεπτομερείς πληροφορίες σχετικά με τα επιχειρήματα αυτά μπορούν να βρεθούν στο <a href="https://github.com/expanse-project/go-expanse/wiki/Command-Line-Options">Expanse Wiki : Command Line Options</a>.';
+$i8n['userguide_install_example']='Παράδειγμα';
+$i8n['userguide_install_attach']='Για την σύνδεση της κονσόλας σε μια τρέχουσα διεργασία του gexp, συμπεριλάβετε στην εντολή &quot;attach&quot;.';
+$i8n['userguide_install_rungui_title']='Εκτελώντας το Expanse - EXPWallet με Γραφικό Περιβάλλον';
+$i8n['userguide_install_rungui']='Για να εκτελέσετε το Γραφικό Περιβάλλον του Expanse, απλά τρέξτε το εκτελέσιμο αρχείο του expwallet. Εάν ήδη τρέχει το gexp, το να τρέξετε το expwallet θα το συνδέσει με αυτό. Εάν δεν τρέχει το gexp, θα εκτελεστεί μια εσωτερική διεργασία του gexp.';
+$i8n['userguide_install_firstrun_title']='Πρώτη Εκτέλεση/Εγκατάσταση';
+$i8n['userguide_install_firstrun_desc']='Την πρώτη φορά που θα εκτελέσετε το expanse, θα σας ζητηθεί να συμφωνήσετε με το συμφωνητικό χρήστη. Το Expanse θα ελέγξει τον προεπιλεγμένο φάκελο εργασίας για υπάρχοντα αρχεία, και αν δεν βρεθούν, θα τα δημιουργήσει. Προτείνετε να δημιουργήσετε λογαριασμό αν δεν το έχετε κάνει ήδη.';
 
 // Documentation : User Guide : Backing Up &amp; Restoring
-$i8n['userguide_backup_title']='Backing Up &amp; Restoring';
-$i8n['userguide_backup_dataloc']='Data Location';
-$i8n['userguide_backup_loc']='Wallets/Accounts are stored in the Keystore Folder inside Expanse\'s Data Directory.';
-$i8n['userguide_backup_locos']='The location of this directory by default per OS:';
-$i8n['userguide_backup_datadir']='It is possible to specify the directory with the <code>--datadir</code> parameter when launching the wallet. ';
-$i8n['userguide_backup_wallet']='Wallet/Account Backup';
-$i8n['userguide_backup_walletdesc']='To back up your wallet and accounts simply save a copy of the keystore folder(or its contents) to another location.';
-$i8n['userguide_backup_restore']='Wallet/Account Restore';
-$i8n['userguide_backup_restoredesc']='To restore your wallet,  copy the contents of your keystore backup to the keystore folder in the expanse data directory.';
+$i8n['userguide_backup_title']='Αντίγραφα &amp; Ασφαλείας';
+$i8n['userguide_backup_dataloc']='Τοποθεσία Δεδομένων';
+$i8n['userguide_backup_loc']='Τα Πορτοφόλια/Λογαριασμοί αποθηκεύονται στον φάκελο Keystore μέσα στο φάκελο δεδομένων του Expanse\'s.';
+$i8n['userguide_backup_locos']='Η θέση αυτού του καταλόγου από προεπιλογή ανά Λειτουργικό Σύστημα:';
+$i8n['userguide_backup_datadir']='Είναι δυνατόν να καθοριστεί ο φάκελος μέσω των <code>--datadir</code> παραμέτρων όταν εκτελέσετε το πορτοφόλι. ';
+$i8n['userguide_backup_wallet']='Αντίγραφο Ασφαλείας Πορτοφολιού/Λογαριασμού';
+$i8n['userguide_backup_walletdesc']='Για να πάρετε αντίγραφο ασφαλείας του πορτοφολιού και του λογαριασμού σας απλά αντιγράψτε τον φάκελο keystore (ή τα περιεχόμενα του) σε μια άλλη τοποθεσία.';
+$i8n['userguide_backup_restore']='Επαναφορά Αντίγραφου Ασφαλείας Πορτοφολιού/Λογαριασμού';
+$i8n['userguide_backup_restoredesc']='Για την επαναφορά του πορτοφολιού,  αντιγράψτε τα περιεχόμενα του keystore φακέλου στον ίδιο φάκελο στον φάκελο δεδομένων του expanse.';
 
 
 // Documentation : User Guide : Mining Quick Start
-$i8n['userguide_mining_title']='Mining Quick Start';
-$i8n['userguide_mining_desc']='Mining can be done internally, or with third party tools.';
-$i8n['userguide_mining_cpu']='CPU Mining with GEXP';
-$i8n['userguide_mining_cpudesc']='You can initiate gexp with mining enabled by using the <code>--mine</code> argument when launching gexp. You may set the amount of cpu threads being utilized in mining with the <code>--minerthreads</code> argument';
-$i8n['userguide_mining_cmd']='You may also start and stop the miner directly from the exp console with the miner.start and miner.stop commands.';
-$i8n['userguide_mining_ethminer']='GPU Mining with Ethminer';
-$i8n['userguide_mining_cors']='It is required that rpc is enabled and rpccorsdomain allows localdomain access.';
+$i8n['userguide_mining_title']='Γρήγορος Οδηγός Εξόρυξης';
+$i8n['userguide_mining_desc']='Η Εξόρυξη μπορεί να γίνει εσωτερικά, ή με εργαλεία τρίτων.';
+$i8n['userguide_mining_cpu']='Εξόρυξη με τη χρήση CPU με το GEXP';
+$i8n['userguide_mining_cpudesc']='Μπορείτε να ξεκινήσετε την εξόρυξη με το gexp με το να χρησιμοιποιήσετε την εντολή <code>--mine</code> όταν ξεκινήσετε το gexp. Μπορείτε να ρυθμίσετε την ποσότητα των νημάτων CPU που χρησιμοποιείται από τα ορυχεία με την εντολή <code>--minerthreads</code>';
+$i8n['userguide_mining_cmd']='Μπορείτε να ξεκινήσετε και να σταματήσετε την εξόρυξη κατευθείαν απο την κονσόλα του exp με την εντολή miner.start και miner.stop.';
+$i8n['userguide_mining_ethminer']='Εξόρυξη με χρήση GPU και το Ethminer';
+$i8n['userguide_mining_cors']='Απαιτείται να είναι ενεργό το rpc και το rpccorsdomain για να επιτραπεί τοπική πρόσβαση.';
 
 // Documentation : User Guide : Managing Accounts
-$i8n['userguide_accounts_title']='Managing Accounts';
-$i8n['userguide_accounts_create_title']='Creating a New Account';
-$i8n['userguide_accounts_create_desc']='To Create an account using gexp from your native console, run the command geth account new, and you will be prompted for a password.';
-$i8n['userguide_accounts_create_warn']='This method is not recommended since it may leave a record of your password in the console log.';
-$i8n['userguide_accounts_create_run']='To Create an account inside a running expanse console instance, run the command';
-$i8n['userguide_accounts_delete_title']='Deleteing an Account';
-$i8n['userguide_accounts_delete_desc']='Accounts cannot be deleted from within the client or console. To Delete an account, delete the file associated with the account from your keystore folder. Be careful not to delete any other files. It is recommended to back up all keys created with your wallet. Please exercise extra caution to verify you only delete the keys you intend to.';
+$i8n['userguide_accounts_title']='Διαχείριση Λογαριασμών';
+$i8n['userguide_accounts_create_title']='Δημιουργία Λογαριασμού';
+$i8n['userguide_accounts_create_desc']='Για την δημιουργία λογαριασμού με την χρήση του gexp απο την κονσόλα, τρέξτε την εντολή geth account new, και θα σας ζητηθεί ένας κωδικός.';
+$i8n['userguide_accounts_create_warn']='Αυτή η μέθοδος δεν συνιστάτε καθώς μπορεί να αφήσει εγγραφές του κωδικού σας στο αρχείο καταγραφής.';
+$i8n['userguide_accounts_create_run']='Για την δημιουργία ενός λογαριασμού εσωτερικά μιας διεργασίας του expanse, τρέξτε την εντολή';
+$i8n['userguide_accounts_delete_title']='Διαγραφή ενός Λογαριασμού';
+$i8n['userguide_accounts_delete_desc']='Οι λογαριασμού δεν μπορούν να διαγραφούν απο το εσωτερικό του πελάτη ή της κονσόλας. Για να διαγράψετε ένα λογαριασμό, διαγράψτε το αρχείο που σχετίζεται με το λογαριασμό από το φάκελο αποθήκευσης κλειδιών. Να είστε προσεκτικοί ώστε να μην διαγράψετε οποιαδήποτε άλλα αρχεία. Συνιστάται να δημιουργήσετε αντίγραφα ασφαλείας όλων των κλειδιών που δημιουργήθηκαν με το πορτοφόλι σας. Παρακαλείστε να ασκήσετε επιπλέον προσοχή για να εξακριβώσετε αν διαγράφετε μόνο τα κλειδιά που σκοπεύετε.';
 // Documentation : User Guide : Sending Transactions
-$i8n['userguide_sending_title']='Sending Transactions';
-$i8n['userguide_sending_gexp_title']='Sending a Transaction from GEXP';
-$i8n['userguide_sending_gexp_desc']='To send a transaction from gexp, use the console command exp.sendTransaction,  replacing the  from and to account addresses with the desired sender and recipient addresses respectively:';
-$i8n['userguide_sending_gexp_example']='Example: Sending 1 EXP to account 0x00 from account 0x00.';
-$i8n['userguide_sending_wallet_title']='Sending a Transaction from EXPWallet';
-$i8n['userguide_sending_wallet_desc']='To send a transaction using expwallet, simply click the Transactions tab, select the address you would like to send from, enter the to address, amount(and gas, if desired) and cick Send.';
+$i8n['userguide_sending_title']='Αποστολή Συναλλαγών';
+$i8n['userguide_sending_gexp_title']='Αποστολή Συναλλαγών από το GEXP';
+$i8n['userguide_sending_gexp_desc']='Για την αποστολή συναλλαγής μέσω του gexp, χρησιμοποιήστε στην κονσόλα την εντολή exp.sendTransaction,  αντικαθιστώντας τις διευθύνσεις του αποστολέα και του παραλήπτη με τις επιθυμητές διευθύνσεις:';
+$i8n['userguide_sending_gexp_example']='Παράδειγμα: Αποστολή 1 EXP στο λογαριασμό 0x00 απο το λογαριασμό 0x00.';
+$i8n['userguide_sending_wallet_title']='Αποστολή Συναλλαγής απο το EXPWallet';
+$i8n['userguide_sending_wallet_desc']='Για την αποστολή μιας συναλλαγής με την χρήση του expwallet, απλά κάντε κλίκ στην καρτέλα Συναλλαγές, και επιλέξτε την διεύθυνση απο την οποία θέλετε να στείλετε, και εισάγετε την διεύθυνση και το ποσό (και το gas, αν επιθυμείτε) και πατήστε Αποστολή.';
 ?>
